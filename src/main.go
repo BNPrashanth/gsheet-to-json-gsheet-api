@@ -1,7 +1,7 @@
 package main
 
 import (
-	u "gsheet-to-json-google-api/src/utils"
+	u "gsheet-to-json-gsheet-api/src/utils"
 )
 
 func main() {
